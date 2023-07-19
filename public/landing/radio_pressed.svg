@@ -1,0 +1,33 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="pressed">
+<g id="Group 5830">
+<g id="Neuo (white shade)" filter="url(#filter0_di_5_26)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 23C7.47715 23 3 18.5228 3 13C3 7.47715 7.47715 3 13 3C18.5228 3 23 7.47715 23 13C23 18.5228 18.5228 23 13 23Z" fill="url(#paint0_linear_5_26)"/>
+</g>
+</g>
+<g id="Group 5831">
+<path id="Neuo (white shade)_2" fill-rule="evenodd" clip-rule="evenodd" d="M13.0005 16C11.3436 16 10.0005 14.6568 10.0005 13C10.0005 11.3431 11.3436 9.99998 13.0005 9.99998C14.6573 9.99998 16.0005 11.3431 16.0005 13C16.0005 14.6568 14.6573 16 13.0005 16Z" fill="#363A42"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_di_5_26" x="0" y="0" width="30" height="30" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2" dy="2"/>
+<feGaussianBlur stdDeviation="2.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.121569 0 0 0 0 0.141176 0 0 0 0 0.184314 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5_26"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5_26" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="1" dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0313726 0 0 0 0 0.027451 0 0 0 0 0.0509804 0 0 0 0.24 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_5_26"/>
+</filter>
+<linearGradient id="paint0_linear_5_26" x1="3" y1="23" x2="23" y2="23" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7930DE"/>
+<stop offset="1" stop-color="#7F65FF"/>
+</linearGradient>
+</defs>
+</svg>

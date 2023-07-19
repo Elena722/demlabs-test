@@ -1,0 +1,38 @@
+%buttonDefault{
+    color:$textColorWhite;
+    border-radius:30px;
+    width:318px;
+    height:36px;
+    background: linear-gradient(230deg, $mainButtonColor 0%, $mainButtonColor2 100%);
+    box-shadow: 1px 1px 4px 0px $buttonShadowColor inset, 2px 2px 7px 0px $buttonGradient;
+    cursor:pointer;
+}
+
+%buttonHover{
+    color:$textColorWhite;
+    border-radius:30px;
+    width:318px;
+    height:36px;
+    background: linear-gradient(230deg, $mainButtonColor 0%, $mainButtonColor3 100%);
+    box-shadow: 1px 1px 4px 0px $buttonShadowColor inset, 2px 2px 7px 0px $buttonGradient;
+    cursor:pointer;
+}
+
+%buttonPressed{
+    color:$textColorWhite;
+    border-radius:30px;
+    width:318px;
+    height:36px;
+    background: linear-gradient(90deg, #7930DE 0%, #7F65FF 100%);
+    box-shadow: 1px 1px 2px 0px $buttonGradient2 inset, 2px 2px 5px 0px $buttonGradient3;
+    cursor:pointer;
+}
+
+%buttonDisabled{
+    color:$textColorWhite;
+    border-radius:30px;
+    width:318px;
+    height:36px;
+    background-color:$buttonColorDisabled;
+    box-shadow: 2px 2px 7px 0px rgba(11, 10, 13, 0.44), 1px 1px 4px 0px $buttonGradient4 inset;
+}

@@ -1,0 +1,9 @@
+@mixin buttonStyle($c, $r, $w, $h, $bgc, $shadow_inner, $shadow_outer ){
+    color:$c;
+    border-radius:$r;
+    width:$w;
+    height:$h;
+    background-color:$bgc;
+    box-shadow: 1px 1px 4px 0px $shadow_inner inset, 2px 2px 7px 0px $shadow_outer;
+    cursor:pointer;
+}
